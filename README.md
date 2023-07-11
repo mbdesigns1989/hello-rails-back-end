@@ -1,5 +1,25 @@
 <a name="readme-top"></a>
 
+ 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [📹 video presentation](#video-presentation)
+  - [:camera: screenshots](#screenshots)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+
+
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello-Rails-Back-End <a name="about-project"></a>
@@ -11,10 +31,10 @@
 <details>
   <summary>Hello-Rails-Back-End</summary>
   <ul>
-    <li><a href="https://ruby-doc.org/core-3.1.2/">React</a></li>
+    <li><a href="https://react.dev/">React</a></li>
   </ul>
     <ul>
-    <li><a href="https://ruby-doc.org/core-3.1.2/">Rails</a></li>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
   </ul>
 </details>
 
